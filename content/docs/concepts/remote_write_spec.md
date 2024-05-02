@@ -1,6 +1,6 @@
 ---
-title: Prometheus Remote-Write Specification
-sort_rank: 4
+title: Prometheus Remote-Write Specification 1.0
+sort_rank: 5
 ---
 
 # Prometheus Remote-Write Specification
